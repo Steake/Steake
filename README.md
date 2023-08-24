@@ -5,6 +5,7 @@
 
 ---
 
-- [🧪 ORBIT LABS DAO](https://OrbitLabs.xyz) (Current)
+- [🧪 BraveNewCaptial](https://bravenew.capital) (Current)
+- [🧪 ORBIT LABS DAO](https://OrbitLabs.xyz) (DAO)
 - [📈 ELTCOIN](https://eltcoin.tech) (Notable)
 - [🌍 HODL DAO](https://hodldao.xyz) (Unfinished)
