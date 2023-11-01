@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Steake
-- 👀 I’m interested in applied cryptography and trustless distrubuted architectures.
+- 👀 I’m interested in applied cryptography, trustless distrubuted architectures & ML/AI within such contexts.
 - 💞️ I’m looking to collaborate on projects related to such technologies.
 - 📫 ollie.steake@gmail.com
-- [🔖 Blog](https://hackmd.io/@5teak3)
+- [🔖 My Blog](https://hackmd.io/@5teak3)
 ---
 
 - [🧪 BraveNewCaptial](https://bravenew.capital) (Current)
