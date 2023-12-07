@@ -1,4 +1,3 @@
-## _“The question isn’t 'Who is going to let me?'; it’s 'Who is going to stop me?'”_ - Ayn Rand
 
 - 👋 I am @Steake
 - 👀 Passionate about applied cryptography, trustless distrubuted architectures
@@ -9,6 +8,12 @@
 - 📲 Telegram: https://t.me/steak_e
 - [🔖 My Blog](https://hackmd.io/@5teak3) [Another of my blogs](https://bravenew.capital/blog)
 ---
+
+> _“The question isn’t 'Who is going to let me?'; it’s 'Who is going to stop me?'”_ - Ayn Rand
+
+---
+
+### Some more links
 
 - [🧪 BraveNewCaptial](https://bravenew.capital) (Current)
 - [🧪 ORBIT LABS DAO](https://OrbitLabs.xyz) (Contracting)
