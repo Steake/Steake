@@ -5,7 +5,7 @@
   - 🪄 Predictably then ZKML is the intersection of those
 - 💞️ We at BraveNew.Capital are working to bring about the future of online interactions.
 - 📫 ollie.steake@gmail.com (Don't email me...)
-- 📲 Telegram: https://t.me/cve_steake
+- 📲 Telegram: https://t.me/zteake
 - [🔖 My Blog](https://hackmd.io/@5teak3) [Another of my blogs](https://bravenew.capital/blog)
 ---
 
