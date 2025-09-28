@@ -65,7 +65,13 @@ The code either works or it doesn't. The universe, thankfully, doesn't care abou
 ---
 
 <div align="center">
-
+<br/>
+<br/>
 **Choose your reality ↑**
 
+###  _“The question isn’t 'Who is going to let me?'; it’s 'Who is going to stop me?'”_ - Ayn Rand
 </div>
+
+
+
+
