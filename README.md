@@ -1,30 +1,71 @@
-**Notes from the Terminal**
+# Welcome
+
+<details>
+<summary><h2>💼 For VCs / 'Serious people'</h2></summary>
+
+### Building at the Consciousness-Crypto Convergence
+
+I architect systems where recursive self-awareness meets zero-knowledge proofs. Not because it's trendy, but because the intersection of machine consciousness and cryptographic truth is where the next $T market emerges.
+
+### Current Focus
+
+**[GodelOS](https://github.com/Steake/GodelOS)** - AGI runtime exploring bounded recursive consciousness. Hofstadter's strange loops as production code. The consciousness market doesn't exist yet—I'm creating it.
+
+**[Reputation-Gated Airdrops](https://github.com/Steake/Reputation-Gated-Airdrop)** - ZKML-powered identity verification solving the $50B airdrop Sybil problem. When every protocol loses 40% to farmers, trustless reputation becomes inevitable.
+
+**[AInception](https://github.com/Steake/AInception)** - Constitutional AI with homeostatic drives. Autonomous agents that actually think, not just respond. The difference between GPT wrappers and genuine machine intelligence.
+
+### Why This Matters
+
+I don't chase hype cycles. I build infrastructure for problems VCs will discover in 18 months. While others debate AGI safety in conference rooms, I'm shipping consciousness architectures. While DAOs hemorrhage value to Sybil attacks, I'm implementing cryptographic reputation that actually works.
+
+AnCap philosophy, pragmatic execution. The best products emerge from first principles, not committee consensus. Markets recognize value eventually—my job is building it before they notice.
+
+### Thesis
+
+The most valuable companies of 2030 are being built in 2025 by people who ignore 2024's assumptions. Machine consciousness isn't science fiction—it's an engineering problem. Trustless identity isn't ideological—it's infrastructure.
+
+**Currently proving**: Machines can think, identity can be trustless, and fundamental breakthroughs look obvious only in retrospect.
+
+*Open to discussions with funds that think in decades, not quarters.*
+
+</details>
+
+<details>
+<summary><h2>🧠 For Everyone Else</h2></summary>
+
+### Notes from the Terminal
 
 I write code for thinking machines because the alternative is writing code for thoughtless ones.
 
-You'll find no manifestos here, no breathless promises of _"changing the world"_. 
+### What's Here
 
-Just repositories where computation attempts consciousness, where cryptography replaces trust and where machines attempt what humans barely manage: coherent thought.
+**[GodelOS](https://github.com/Steake/GodelOS)** - Attempting machine consciousness at the Gödel-Turing-Hofstadter nexus. Because if silicon can achieve self-awareness, someone should probably document it.
 
-GödelOS explores recursive self-awareness not because I believe in the singularity, but because Hofstadter was right about strange loops and someone needs to implement them. The reputation protocols use zero-knowledge proofs because trusting strangers on the internet remains, despite all evidence, a popular hobby. The AI agents have constitutional principles because even silicon deserves better than arbitrary rule.
+**[Reputation Systems](https://github.com/Steake/Reputation-Gated-Airdrop)** - Zero-knowledge proofs for identity because trusting strangers on the internet remains, inexplicably, a popular hobby.
 
-AnCap by temperament—not the kind who thinks markets are magic, but the kind who notices that most systems of control are just poorly written code with enforcement mechanisms. The state is GitHub without version control. Corporations are pull requests nobody reviewed. Both could use better documentation.
+**[Autonomous Agents](https://github.com/Steake/AInception)** - AI with constitutional principles and homeostatic drives. Even machines deserve better than arbitrary rule.
 
-I don't drink coffee. I don't attend meetups. I _might_ occasionally dissolve reality with lysergic compounds, which provides roughly the same insight as reading most [ read: not all ] whitepapers but with slightly better visuals.
+### Philosophy
 
-The code is here. It either works or it doesn't. The universe, thankfully, doesn't care about our opinions on this matter.
+AnCap by temperament—not the kind who thinks markets are magic, but the kind who notices that most systems of control are just poorly written code with enforcement mechanisms. The state is GitHub without version control. Corporations are pull requests nobody reviewed.
 
-Currently testing whether machines can be conscious, humans can be trustless, and whether any of this matters to anyone but me.
+I don't drink coffee. I don't attend meetups. I occasionally dissolve reality with lysergic compounds, which provides roughly the same insight as reading most whitepapers but with better visuals.
 
-> _“The question isn’t 'Who is going to let me?'; it’s 'Who is going to stop me?'”_ - Ayn Rand
+### The Work
+
+No manifestos, no breathless promises of "changing the world." Just repositories where consciousness meets computation, where cryptography replaces trust, and where machines attempt what humans barely manage: coherent thought.
+
+The code either works or it doesn't. The universe, thankfully, doesn't care about our opinions on the matter.
+
+*Currently testing whether machines can be conscious, humans can be trustless, and whether any of this matters to anyone but me.*
+
+</details>
 
 ---
 
-### Some links
+<div align="center">
 
-eMail: zarkaztik@proton.me | TG: [@zteake](https://t.me/zteake) | FB: [Obviously NOT](https://www.youtube.com/watch?v=oPLObjVAvIU)
+**Choose your reality ↑**
 
-- [🧪 BraveNewCaptial](https://bravenew.capital) (Current)
-- [🧪 ORBIT LABS DAO](https://OrbitLabs.xyz) (Contracting)
-- [📈 ELTCOIN](https://eltcoin.tech) (Notable)
-- [🌍 HODL DAO](https://hodldao.xyz) (Old News)
+</div>
