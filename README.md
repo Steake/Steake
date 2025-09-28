@@ -22,7 +22,7 @@ Currently testing whether machines can be conscious, humans can be trustless, an
 
 ### Some links
 
-Contact me zarkaztik@proton.me | telegram @zteake | 
+eMail: zarkaztik@proton.me | TG: [@zteake](https://t.me/zteake) | FB: [Obviously NOT](https://www.youtube.com/watch?v=oPLObjVAvIU)
 
 - [🧪 BraveNewCaptial](https://bravenew.capital) (Current)
 - [🧪 ORBIT LABS DAO](https://OrbitLabs.xyz) (Contracting)
