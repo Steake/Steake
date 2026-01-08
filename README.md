@@ -29,7 +29,7 @@ AnCap philosophy, pragmatic execution. The best products emerge from first princ
 
 ### Thesis
 
-The most valuable companies of 2030 are being built in 2025 by people who ignore 2024's assumptions. Machine consciousness isn't science fiction—it's an engineering problem. Trustless identity isn't crypto-anarchist fantasy—it's inevitable infrastructure. Consensus doesn't need proof-of-waste—it needs proof-of-elegance.
+The most valuable companies of 2030 are being built in 2026 by people who ignore 2025's assumptions. Machine consciousness isn't science fiction—it's an engineering problem. Trustless identity isn't crypto-anarchist fantasy—it's inevitable infrastructure. Consensus doesn't need proof-of-waste—it needs proof-of-elegance.
 
 **Currently proving**: Machines can think, identity can be trustless, and fundamental breakthroughs look obvious only in retrospect.
 
