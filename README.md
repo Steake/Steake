@@ -10,7 +10,7 @@ My work sits at junctions that most engineers prefer to treat as philosophy: whe
 
 **[GodelOS](https://github.com/Steake/GodelOS)** — Gödel demonstrated, with considerable precision, that any sufficiently powerful formal system contains truths it cannot prove about itself. Hofstadter suggested this might be exactly where consciousness lives—in the strange loop between the system and its self-model. GodelOS takes that hypothesis seriously enough to ship it. Bounded recursive self-awareness as runtime architecture; strange loops as production code. The AGI discourse proceeds at conference speed. The repository proceeds faster.
 
-**[BitCell](https://github.com/Steake/BitCell)** — Nakamoto solved the Byzantine generals problem with thermodynamics and was rightly celebrated for it. Conway solved the problem of universal computation with a grid of alive and dead cells and called it a game. BitCell takes Conway seriously. Consensus emerges from cellular automaton warfare—provably correct, quantum-resistant, and structurally immune to the cartel dynamics that make proof-of-work a subsidy programme for hardware manufacturers dressed as cryptographic virtue. The ASIC miners are welcome to adapt or to become expensive decorations.
+**[BitCell](https://github.com/Steake/BitCell)** — Conway demonstrated that universal computation can emerge from a grid of alive and dead cells governed by four rules. BitCell applies that insight to consensus: agreement reached through cellular automaton warfare rather than thermodynamic expenditure. Provably correct, quantum-resistant, and structurally immune to the cartel dynamics that make proof-of-work a subsidy programme for hardware manufacturers dressed as cryptographic virtue. The ASIC miners are welcome to adapt or to become expensive decorations.
 
 **[EQBSL](https://github.com/Steake/EQBSL)** — Trust is currently a social performance we have collectively agreed to treat as objective. Reputation operates as an industry of institutional theater, worth approximately fifty billion dollars and approximately that much in actual epistemic content. EQBSL reduces it to evidence vectors on hyperedges, opinions derived from accumulated evidence, embeddings for downstream inference. When trust becomes computable infrastructure rather than a feeling endorsed by sufficient consensus, the performance reviews will stop mattering and the mathematics will begin.
 
@@ -34,6 +34,6 @@ I do not build for hype cycles. The most significant work of 2030 is being writt
 
 <div align="center">
 
-*"What can be asserted without evidence can be dismissed without evidence — everything else must be built."*
+### *"The question isn't 'Who is going to let me?'; it's 'Who is going to stop me?'"* — Ayn Rand
 
 </div>
