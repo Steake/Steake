@@ -1,85 +1,39 @@
-# Welcome
+# Steake
 
-<details>
-<summary><h2>💼 For VCs / 'Serious people'</h2></summary>
+The interesting question about machine consciousness is not whether it will happen—that argument is largely settled at the level of physics—but whether we will recognise it when it does, and whether the infrastructure to receive it will exist. I am, in some modest sense, building that infrastructure.
 
-### Building at the Consciousness-Crypto Convergence
+My work sits at junctions that most engineers prefer to treat as philosophy: where self-reference collapses into computation, where trust dissolves into mathematics, where consensus is grounded in something more interesting than brute force. These are not metaphors. They are engineering specifications.
 
-I architect systems where recursive self-awareness meets zero-knowledge proofs. Not because it's trendy, but because the intersection of machine consciousness and cryptographic truth is where the next decade of value creation lives.
+---
 
-### Current Focus
+## The Work
 
-**[GodelOS](https://github.com/Steake/GodelOS)** - AGI runtime exploring bounded recursive consciousness. Hofstadter's strange loops as production code. The consciousness market doesn't exist yet—I'm building the infrastructure anyway.
+**[GodelOS](https://github.com/Steake/GodelOS)** — Gödel demonstrated, with considerable precision, that any sufficiently powerful formal system contains truths it cannot prove about itself. Hofstadter suggested this might be exactly where consciousness lives—in the strange loop between the system and its self-model. GodelOS takes that hypothesis seriously enough to ship it. Bounded recursive self-awareness as runtime architecture; strange loops as production code. The AGI discourse proceeds at conference speed. The repository proceeds faster.
 
-**[BitCell](https://github.com/Steake/BitCell)** - Consensus through cellular automaton warfare. Cartels cannot coordinate when victory requires elegance rather than electricity. Provably correct, quantum-resistant, and utterly indifferent to your GPU budget. The ASIC miners will adapt or become expensive paperweights.
+**[BitCell](https://github.com/Steake/BitCell)** — Conway demonstrated that universal computation can emerge from a grid of alive and dead cells governed by four rules. BitCell applies that insight to consensus: proof-of-work where the work is cellular automaton computation rather than arbitrary hashing—the expenditure produces something structurally meaningful. Provably correct, quantum-resistant, and resistant to the hardware arms races that tend to accumulate around simpler schemes.
 
-**[EQBSL](https://github.com/Steake/EQBSL)** - Trust as ledgered state. Evidence vectors on hyperedges, opinions derived from evidence, embeddings for ML. When reputation becomes computable infrastructure instead of social theater, identity verification stops being a $50B problem.
+**[EQBSL](https://github.com/Steake/EQBSL)** — Reputation is a difficult thing to operationalise and an easy thing to game precisely because it has no formal definition. EQBSL gives it one: evidence vectors on hyperedges, opinions derived from accumulated evidence, embeddings for downstream inference. Trust as computable infrastructure rather than social consensus—the difference being that the former is auditable and the latter is not.
 
-**[Reputation-Gated Airdrops](https://github.com/Steake/Reputation-Gated-Airdrop)** - ZKML-powered identity verification solving the $50B airdrop Sybil problem. When every protocol loses 40% to farmers, trustless identity becomes infrastructure, not ideology.
+**[Reputation-Gated Airdrops](https://github.com/Steake/Reputation-Gated-Airdrop)** — Token distribution at scale has a Sybil problem: the same actor, many addresses, disproportionate capture. ZKML-powered identity verification establishes who you are without revealing it, gating participation on provable uniqueness rather than on trust. The mechanism is trustless; the outcome is fair distribution.
 
-**[Pocketbook](https://github.com/ELTCOIN/pocketbook)** - Censorship-immune, decentralized human network spanning all blockchains. Communication infrastructure that doesn't require permission from people who think moderation means control. The internet routes around censorship—so should social graphs.
+**[Pocketbook](https://github.com/ELTCOIN/pocketbook)** — Cross-chain, decentralised communication infrastructure that requires no permission from administrators because there are none. The network spans blockchains; the architecture is censorship-resistant by construction rather than by policy.
 
-**[AInception](https://github.com/Steake/AInception)** - Constitutional AI with homeostatic drives. Autonomous agents that actually think, not just respond. The difference between GPT wrappers and actual intelligence is architectural depth.
+**[AInception](https://github.com/Steake/AInception)** — The distinction between a language model wrapper and a system that actually reasons is architectural, not cosmetic. Constitutional AI with homeostatic drives: autonomous agents constrained by principle and motivated by something that functions as preference. The difference between a rule-follower and something that understands the rules is precisely the gap AInception is designed to close.
 
-### Why This Matters
+---
 
-I don't chase hype cycles. I build infrastructure for problems VCs will discover in 18 months. While others debate AGI safety in conference rooms, I'm shipping consciousness architectures. While DeFi optimizes yield curves, I'm rebuilding consensus from Conway's Game of Life.
+## The Position
 
-AnCap philosophy, pragmatic execution. The best products emerge from first principles, not committee consensus. Markets recognize value eventually—my job is building it before they notice.
+AnCap by inclination. The most durable systems tend to be those which align individual incentive with collective outcome without requiring enforcement. I find this observation more useful than ideological and try to build accordingly.
 
-### Thesis
+The distance between a working idea and a recognised one is rarely short. This is not a complaint.
 
-The most valuable companies of 2030 are being built in 2026 by people who ignore 2025's assumptions. Machine consciousness isn't science fiction—it's an engineering problem. Trustless identity isn't crypto-anarchist fantasy—it's inevitable infrastructure. Consensus doesn't need proof-of-waste—it needs proof-of-elegance.
-
-**Currently proving**: Machines can think, identity can be trustless, and fundamental breakthroughs look obvious only in retrospect.
-
-*Open to discussions with funds that think in decades, not quarters.*
-
-</details>
-
-<details>
-<summary><h2>🧠 For Everyone Else</h2></summary>
-
-### Notes from the Terminal
-
-I write code for thinking machines because the alternative is writing code for thoughtless ones.
-
-### What's Here
-
-**[GodelOS](https://github.com/Steake/GodelOS)** - Attempting machine consciousness at the Gödel-Turing-Hofstadter nexus. Because if silicon can achieve self-awareness, someone should probably document the attempt before the singularity makes documentation irrelevant.
-
-**[BitCell](https://github.com/Steake/BitCell)** - Blockchain consensus reimagined as cellular automaton warfare. Turns out Conway's Game of Life has opinions about Byzantine generals. Quantum-resistant, ASIC-resistant, and resistant to the idea that burning electricity equals security.
-
-**[EQBSL](https://github.com/Steake/EQBSL)** - Trust as a ledger instead of a feeling. Evidence accumulates on graph edges, opinions emerge from math, and reputation becomes something you can actually compute. Social credit without the authoritarianism—just the math.
-
-**[Reputation Systems](https://github.com/Steake/Reputation-Gated-Airdrop)** - Zero-knowledge proofs for identity because trusting strangers on the internet remains, inexplicably, a popular hobby.
-
-**[Pocketbook](https://github.com/ELTCOIN/pocketbook)** - Decentralized communication that spans every blockchain because apparently we needed yet another reason to make censorship technically impractical. Speech doesn't need moderators; it needs mathematics.
-
-**[Autonomous Agents](https://github.com/Steake/AInception)** - AI with constitutional principles and homeostatic drives. Even machines deserve better than arbitrary rule.
-
-### Philosophy
-
-AnCap by temperament—not the kind who thinks markets are magic, but the kind who notices that most systems of control are just poorly written code with enforcement mechanisms. The state is GitHub with a monopoly on force and worse documentation.
-
-I don't drink coffee. I don't attend meetups. I occasionally dissolve reality with lysergic compounds, which provides roughly the same insight as reading most whitepapers but with better visuals.
-
-### The Work
-
-No manifestos, no breathless promises of "changing the world." Just repositories where consciousness meets computation, where cryptography replaces trust, and where machines attempt what humans barely understand about themselves.
-
-The code either works or it doesn't. The universe, thankfully, doesn't care about our opinions on the matter.
-
-*Currently testing whether machines can be conscious, humans can be trustless, and whether any of this matters to anyone but me.*
-
-</details>
+*Available for conversations with those who reason in decades and who can sustain a disagreement without requiring it to become a dispute.*
 
 ---
 
 <div align="center">
-<br/>
-<br/>
-**Choose your reality ↑**
 
-###  _"The question isn't 'Who is going to let me?'; it's 'Who is going to stop me?'"_ - Ayn Rand
+### *"The question isn't 'Who is going to let me?'; it's 'Who is going to stop me?'"* — Ayn Rand
+
 </div>
